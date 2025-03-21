@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\bin\Debug\net8.0\InversaoDeArray.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\bin\Debug\net8.0\InversaoDeArray.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\bin\Debug\net8.0\InversaoDeArray.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\bin\Debug\net8.0\InversaoDeArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\bin\Debug\net8.0\InversaoDeArray.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\refint\InversaoDeArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\ref\InversaoDeArray.dll

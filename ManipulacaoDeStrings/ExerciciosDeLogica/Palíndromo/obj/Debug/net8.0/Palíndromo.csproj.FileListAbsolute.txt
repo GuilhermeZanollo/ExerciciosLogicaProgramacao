@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\bin\Debug\net8.0\Palíndromo.exe
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\bin\Debug\net8.0\Palíndromo.deps.json
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\bin\Debug\net8.0\Palíndromo.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\bin\Debug\net8.0\Palíndromo.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\bin\Debug\net8.0\Palíndromo.pdb
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\refint\Palíndromo.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.pdb
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\ref\Palíndromo.dll

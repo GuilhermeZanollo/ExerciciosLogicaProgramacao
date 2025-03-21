@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palíndromo", "Palíndromo\Palíndromo.csproj", "{144C8759-B49A-49D9-B99A-44632909C57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContagemVogais", "ContagemVogais\ContagemVogais.csproj", "{4AE533E0-933B-4C50-A371-C6DC0B37D0AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrama", "Anagrama\Anagrama.csproj", "{E225CF47-CB67-4BC4-8163-82011092F7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InversaoDeString", "InversaoDeString\InversaoDeString.csproj", "{CACD47AC-30A7-4CD1-9F6B-D543A5E486C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144C8759-B49A-49D9-B99A-44632909C57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144C8759-B49A-49D9-B99A-44632909C57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144C8759-B49A-49D9-B99A-44632909C57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144C8759-B49A-49D9-B99A-44632909C57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE533E0-933B-4C50-A371-C6DC0B37D0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE533E0-933B-4C50-A371-C6DC0B37D0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE533E0-933B-4C50-A371-C6DC0B37D0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE533E0-933B-4C50-A371-C6DC0B37D0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E225CF47-CB67-4BC4-8163-82011092F7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E225CF47-CB67-4BC4-8163-82011092F7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E225CF47-CB67-4BC4-8163-82011092F7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E225CF47-CB67-4BC4-8163-82011092F7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACD47AC-30A7-4CD1-9F6B-D543A5E486C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACD47AC-30A7-4CD1-9F6B-D543A5E486C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACD47AC-30A7-4CD1-9F6B-D543A5E486C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACD47AC-30A7-4CD1-9F6B-D543A5E486C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

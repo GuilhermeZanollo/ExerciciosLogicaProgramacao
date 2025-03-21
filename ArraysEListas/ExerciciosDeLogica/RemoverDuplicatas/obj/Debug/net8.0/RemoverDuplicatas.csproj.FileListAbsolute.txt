@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\bin\Debug\net8.0\RemoverDuplicatas.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\bin\Debug\net8.0\RemoverDuplicatas.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\bin\Debug\net8.0\RemoverDuplicatas.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\bin\Debug\net8.0\RemoverDuplicatas.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\bin\Debug\net8.0\RemoverDuplicatas.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\refint\RemoverDuplicatas.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\ref\RemoverDuplicatas.dll

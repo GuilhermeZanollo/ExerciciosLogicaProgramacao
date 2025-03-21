@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\obj\Debug\net8.0\ContagemVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\obj\Debug\net8.0\ContagemVogais.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\obj\Debug\net8.0\ContagemVogais.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\obj\Debug\net8.0\ContagemVogais.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\bin\Debug\net8.0\ContagemVogais.exe
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\bin\Debug\net8.0\ContagemVogais.deps.json
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\bin\Debug\net8.0\ContagemVogais.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\bin\Debug\net8.0\ContagemVogais.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\bin\Debug\net8.0\ContagemVogais.pdb
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\obj\Debug\net8.0\ContagemVogais.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\obj\Debug\net8.0\refint\ContagemVogais.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\obj\Debug\net8.0\ContagemVogais.pdb
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\obj\Debug\net8.0\ContagemVogais.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\ContagemVogais\obj\Debug\net8.0\ref\ContagemVogais.dll

@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\bin\Debug\net8.0\Tabuada.exe
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\bin\Debug\net8.0\Tabuada.deps.json
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\bin\Debug\net8.0\Tabuada.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\bin\Debug\net8.0\Tabuada.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\bin\Debug\net8.0\Tabuada.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\obj\Debug\net8.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\obj\Debug\net8.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\obj\Debug\net8.0\Tabuada.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\obj\Debug\net8.0\refint\Tabuada.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\obj\Debug\net8.0\Tabuada.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\obj\Debug\net8.0\Tabuada.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\Tabuada\obj\Debug\net8.0\ref\Tabuada.dll

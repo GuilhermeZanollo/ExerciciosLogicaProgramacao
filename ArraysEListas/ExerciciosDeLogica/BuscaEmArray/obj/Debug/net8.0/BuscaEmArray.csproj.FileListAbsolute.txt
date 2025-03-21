@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\bin\Debug\net8.0\BuscaEmArray.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\bin\Debug\net8.0\BuscaEmArray.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\bin\Debug\net8.0\BuscaEmArray.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\bin\Debug\net8.0\BuscaEmArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\bin\Debug\net8.0\BuscaEmArray.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\obj\Debug\net8.0\BuscaEmArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\obj\Debug\net8.0\BuscaEmArray.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\obj\Debug\net8.0\BuscaEmArray.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\obj\Debug\net8.0\BuscaEmArray.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\obj\Debug\net8.0\BuscaEmArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\obj\Debug\net8.0\refint\BuscaEmArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\obj\Debug\net8.0\BuscaEmArray.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\obj\Debug\net8.0\BuscaEmArray.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\BuscaEmArray\obj\Debug\net8.0\ref\BuscaEmArray.dll

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E225CF47-CB67-4BC4-8163-82011092F7A6}|Anagrama\\Anagrama.csproj|c:\\projetos\\logicadeprogramacao\\manipulacaodestrings\\exerciciosdelogica\\anagrama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225CF47-CB67-4BC4-8163-82011092F7A6}|Anagrama\\Anagrama.csproj|solutionrelative:anagrama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACD47AC-30A7-4CD1-9F6B-D543A5E486C8}|InversaoDeString\\InversaoDeString.csproj|c:\\projetos\\logicadeprogramacao\\manipulacaodestrings\\exerciciosdelogica\\inversaodestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACD47AC-30A7-4CD1-9F6B-D543A5E486C8}|InversaoDeString\\InversaoDeString.csproj|solutionrelative:inversaodestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE533E0-933B-4C50-A371-C6DC0B37D0AB}|ContagemVogais\\ContagemVogais.csproj|c:\\projetos\\logicadeprogramacao\\manipulacaodestrings\\exerciciosdelogica\\contagemvogais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE533E0-933B-4C50-A371-C6DC0B37D0AB}|ContagemVogais\\ContagemVogais.csproj|solutionrelative:contagemvogais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{144C8759-B49A-49D9-B99A-44632909C57B}|Pal\u00EDndromo\\Pal\u00EDndromo.csproj|c:\\projetos\\logicadeprogramacao\\manipulacaodestrings\\exerciciosdelogica\\pal\u00EDndromo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{144C8759-B49A-49D9-B99A-44632909C57B}|Pal\u00EDndromo\\Pal\u00EDndromo.csproj|solutionrelative:pal\u00EDndromo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\InversaoDeString\\Program.cs",
+              "RelativeDocumentMoniker": "InversaoDeString\\Program.cs",
+              "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\InversaoDeString\\Program.cs",
+              "RelativeToolTip": "InversaoDeString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:45:37.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\Anagrama\\Program.cs",
+              "RelativeDocumentMoniker": "Anagrama\\Program.cs",
+              "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\Anagrama\\Program.cs",
+              "RelativeToolTip": "Anagrama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:01:47.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\ContagemVogais\\Program.cs",
+              "RelativeDocumentMoniker": "ContagemVogais\\Program.cs",
+              "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\ContagemVogais\\Program.cs",
+              "RelativeToolTip": "ContagemVogais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:56:11.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\Pal\u00EDndromo\\Program.cs",
+              "RelativeDocumentMoniker": "Pal\u00EDndromo\\Program.cs",
+              "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\Pal\u00EDndromo\\Program.cs",
+              "RelativeToolTip": "Pal\u00EDndromo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:45:09.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

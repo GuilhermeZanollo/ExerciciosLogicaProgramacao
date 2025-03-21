@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\bin\Debug\net8.0\FilaDeAtendimento.exe
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\bin\Debug\net8.0\FilaDeAtendimento.deps.json
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\bin\Debug\net8.0\FilaDeAtendimento.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\bin\Debug\net8.0\FilaDeAtendimento.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\bin\Debug\net8.0\FilaDeAtendimento.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\refint\FilaDeAtendimento.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\ref\FilaDeAtendimento.dll

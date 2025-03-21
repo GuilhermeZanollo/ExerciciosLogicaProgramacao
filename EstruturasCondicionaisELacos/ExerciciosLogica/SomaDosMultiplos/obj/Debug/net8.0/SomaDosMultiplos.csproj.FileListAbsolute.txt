@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\bin\Debug\net8.0\SomaDosMultiplos.exe
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\bin\Debug\net8.0\SomaDosMultiplos.deps.json
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\bin\Debug\net8.0\SomaDosMultiplos.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\bin\Debug\net8.0\SomaDosMultiplos.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\bin\Debug\net8.0\SomaDosMultiplos.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\refint\SomaDosMultiplos.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\ref\SomaDosMultiplos.dll

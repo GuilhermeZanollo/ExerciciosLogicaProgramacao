@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\bin\Debug\net8.0\InversaoDeString.exe
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\bin\Debug\net8.0\InversaoDeString.deps.json
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\bin\Debug\net8.0\InversaoDeString.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\bin\Debug\net8.0\InversaoDeString.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\bin\Debug\net8.0\InversaoDeString.pdb
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\obj\Debug\net8.0\InversaoDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\obj\Debug\net8.0\InversaoDeString.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\obj\Debug\net8.0\InversaoDeString.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\obj\Debug\net8.0\InversaoDeString.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\obj\Debug\net8.0\InversaoDeString.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\obj\Debug\net8.0\refint\InversaoDeString.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\obj\Debug\net8.0\InversaoDeString.pdb
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\obj\Debug\net8.0\InversaoDeString.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\InversaoDeString\obj\Debug\net8.0\ref\InversaoDeString.dll

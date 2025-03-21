@@ -1,0 +1,14 @@
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.exe
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.deps.json
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\bin\Debug\net8.0\NumerosImpares.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\refint\NumerosImpares.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\NumerosImpares.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\NumerosImpares\NumerosImpares\obj\Debug\net8.0\ref\NumerosImpares.dll
