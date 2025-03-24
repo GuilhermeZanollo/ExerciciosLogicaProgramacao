@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fatorial", "Recursao\Fatorial.csproj", "{0B3E1790-FD58-413A-9BFE-363FA583ED3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{EE545136-AF05-43E8-B5D4-A6AE0E221173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potencia", "Potencia\Potencia.csproj", "{01BF9692-2017-43E7-9B79-F0E5917CE1B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3E1790-FD58-413A-9BFE-363FA583ED3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3E1790-FD58-413A-9BFE-363FA583ED3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3E1790-FD58-413A-9BFE-363FA583ED3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3E1790-FD58-413A-9BFE-363FA583ED3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE545136-AF05-43E8-B5D4-A6AE0E221173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE545136-AF05-43E8-B5D4-A6AE0E221173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE545136-AF05-43E8-B5D4-A6AE0E221173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE545136-AF05-43E8-B5D4-A6AE0E221173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BF9692-2017-43E7-9B79-F0E5917CE1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BF9692-2017-43E7-9B79-F0E5917CE1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BF9692-2017-43E7-9B79-F0E5917CE1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BF9692-2017-43E7-9B79-F0E5917CE1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

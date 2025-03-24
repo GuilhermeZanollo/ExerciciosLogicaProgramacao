@@ -12,3 +12,4 @@ C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\So
 C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.pdb
 C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.genruntimeconfig.cache
 C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\ref\SomaDosMultiplos.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasCondicionaisELacos\ExerciciosLogica\SomaDosMultiplos\obj\Debug\net8.0\SomaDosMultiplos.sourcelink.json

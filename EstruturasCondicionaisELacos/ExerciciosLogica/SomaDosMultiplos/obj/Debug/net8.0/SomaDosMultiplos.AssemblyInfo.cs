@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SomaDosMultiplos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a784437acab653c335fa49542f3ca9ed809fb7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SomaDosMultiplos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SomaDosMultiplos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
