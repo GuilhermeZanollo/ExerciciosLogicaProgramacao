@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fatorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a784437acab653c335fa49542f3ca9ed809fb7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f35373f3052eacf6f59aaef4d102ace28314b775")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fatorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fatorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

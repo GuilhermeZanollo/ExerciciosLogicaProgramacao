@@ -2,15 +2,13 @@
 
 // Fibonacci – Gere a sequência de Fibonacci até o n-ésimo termo usando recursão.
 
-{
-    Console.Write("Digite um número para a sequência de Fibonacci: ");
-    int n = int.Parse(Console.ReadLine());
+Console.Write("Digite um número para a sequência de Fibonacci: ");
+int n = int.Parse(Console.ReadLine());
 
-    Console.WriteLine($"Sequência de Fibonacci até o {n}-ésimo termo:");
-    for (int i = 0; i < n; i++)
-    {
-        Console.Write(Fibonacci(i) + " ");
-    }
+Console.WriteLine($"Sequência de Fibonacci até o {n}-ésimo termo:");
+for (int i = 0; i < n; i++)
+{
+    Console.Write(Fibonacci(i) + " ");
 }
 
 static int Fibonacci(int n)

@@ -12,19 +12,19 @@ if (numero < 2)
     return;
 }
 
-bool ehPrimo = true;
+bool primo = true;
 
 for (int i = 2; i < numero; i++)
 {
     if (numero % i == 0)
     {
-        ehPrimo = false;
+        primo = false;
         break;
     }
 }
 
-if (ehPrimo)
+if (primo)
     Console.WriteLine($"{numero} é um número primo.");
 else
     Console.WriteLine($"{numero} não é um número primo.");
-    }
+

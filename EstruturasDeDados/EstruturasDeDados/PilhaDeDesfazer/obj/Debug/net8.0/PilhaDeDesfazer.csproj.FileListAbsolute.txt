@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\bin\Debug\net8.0\PilhaDeDesfazer.exe
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\bin\Debug\net8.0\PilhaDeDesfazer.deps.json
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\bin\Debug\net8.0\PilhaDeDesfazer.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\bin\Debug\net8.0\PilhaDeDesfazer.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\bin\Debug\net8.0\PilhaDeDesfazer.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\PilhaDeDesfazer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\PilhaDeDesfazer.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\PilhaDeDesfazer.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\PilhaDeDesfazer.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\PilhaDeDesfazer.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\PilhaDeDesfazer.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\refint\PilhaDeDesfazer.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\PilhaDeDesfazer.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\PilhaDeDesfazer.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\PilhaDeDesfazer\obj\Debug\net8.0\ref\PilhaDeDesfazer.dll

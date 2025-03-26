@@ -12,3 +12,4 @@ C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendi
 C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.pdb
 C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.genruntimeconfig.cache
 C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\ref\FilaDeAtendimento.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\FilaDeAtendimento\obj\Debug\net8.0\FilaDeAtendimento.sourcelink.json

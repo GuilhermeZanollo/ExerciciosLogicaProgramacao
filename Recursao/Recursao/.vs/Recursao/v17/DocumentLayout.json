@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos\\LogicaDeProgramacao\\Recursao\\Recursao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B3E1790-FD58-413A-9BFE-363FA583ED3C}|Recursao\\Recursao.csproj|c:\\projetos\\logicadeprogramacao\\recursao\\recursao\\recursao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B3E1790-FD58-413A-9BFE-363FA583ED3C}|Recursao\\Recursao.csproj|solutionrelative:recursao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE545136-AF05-43E8-B5D4-A6AE0E221173}|Fibonacci\\Fibonacci.csproj|c:\\projetos\\logicadeprogramacao\\recursao\\recursao\\fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE545136-AF05-43E8-B5D4-A6AE0E221173}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B3E1790-FD58-413A-9BFE-363FA583ED3C}|Recursao\\Fatorial.csproj|c:\\projetos\\logicadeprogramacao\\recursao\\recursao\\recursao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3E1790-FD58-413A-9BFE-363FA583ED3C}|Recursao\\Fatorial.csproj|solutionrelative:recursao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01BF9692-2017-43E7-9B79-F0E5917CE1B5}|Potencia\\Potencia.csproj|c:\\projetos\\logicadeprogramacao\\recursao\\recursao\\potencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01BF9692-2017-43E7-9B79-F0E5917CE1B5}|Potencia\\Potencia.csproj|solutionrelative:potencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE545136-AF05-43E8-B5D4-A6AE0E221173}|Fibonacci\\Fibonacci.csproj|c:\\projetos\\logicadeprogramacao\\recursao\\recursao\\fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE545136-AF05-43E8-B5D4-A6AE0E221173}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\Recursao\\Recursao\\Potencia\\Program.cs",
               "RelativeDocumentMoniker": "Potencia\\Program.cs",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\Recursao\\Recursao\\Fibonacci\\Program.cs",
               "RelativeDocumentMoniker": "Fibonacci\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\Recursao\\Recursao\\Fibonacci\\Program.cs",
               "RelativeToolTip": "Fibonacci\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T16:37:41.072Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Recursao\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\Recursao\\Recursao\\Recursao\\Program.cs",
               "RelativeToolTip": "Recursao\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T16:32:56.854Z",
               "EditorCaption": ""
