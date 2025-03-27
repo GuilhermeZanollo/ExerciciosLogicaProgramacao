@@ -12,3 +12,4 @@ C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicat
 C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.pdb
 C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.genruntimeconfig.cache
 C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\ref\RemoverDuplicatas.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemoverDuplicatas\obj\Debug\net8.0\RemoverDuplicatas.sourcelink.json

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos\\LogicaDeProgramacao\\AlgoritmosClassicos\\AlgoritmosClassicos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04B77AA4-6E94-4F6D-82DF-CDB9C2A6F9DF}|AlgoritmosClassicos\\NumerosPrimos.csproj|c:\\projetos\\logicadeprogramacao\\algoritmosclassicos\\algoritmosclassicos\\algoritmosclassicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B77AA4-6E94-4F6D-82DF-CDB9C2A6F9DF}|AlgoritmosClassicos\\NumerosPrimos.csproj|solutionrelative:algoritmosclassicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{920912D5-6862-49DB-AF04-8C3F890EE3D7}|BuscaBinaria\\BuscaBinaria.csproj|c:\\projetos\\logicadeprogramacao\\algoritmosclassicos\\algoritmosclassicos\\buscabinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{920912D5-6862-49DB-AF04-8C3F890EE3D7}|BuscaBinaria\\BuscaBinaria.csproj|solutionrelative:buscabinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AF3386F-B711-4B51-9307-F498227B9E28}|MaximoDivisorComum\\MaximoDivisorComum.csproj|c:\\projetos\\logicadeprogramacao\\algoritmosclassicos\\algoritmosclassicos\\maximodivisorcomum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AF3386F-B711-4B51-9307-F498227B9E28}|MaximoDivisorComum\\MaximoDivisorComum.csproj|solutionrelative:maximodivisorcomum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B77AA4-6E94-4F6D-82DF-CDB9C2A6F9DF}|AlgoritmosClassicos\\AlgoritmosClassicos.csproj|c:\\projetos\\logicadeprogramacao\\algoritmosclassicos\\algoritmosclassicos\\algoritmosclassicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B77AA4-6E94-4F6D-82DF-CDB9C2A6F9DF}|AlgoritmosClassicos\\AlgoritmosClassicos.csproj|solutionrelative:algoritmosclassicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17AEF568-B233-40CF-AFEF-A1F79B76D678}|OrdenacaoMergeSort\\OrdenacaoMergeSort.csproj|c:\\projetos\\logicadeprogramacao\\algoritmosclassicos\\algoritmosclassicos\\ordenacaomergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\AlgoritmosClassicos\\AlgoritmosClassicos\\BuscaBinaria\\Program.cs",
               "RelativeDocumentMoniker": "BuscaBinaria\\Program.cs",
@@ -49,33 +49,33 @@
               "RelativeDocumentMoniker": "OrdenacaoMergeSort\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\AlgoritmosClassicos\\AlgoritmosClassicos\\OrdenacaoMergeSort\\Program.cs",
               "RelativeToolTip": "OrdenacaoMergeSort\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T16:36:33.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\AlgoritmosClassicos\\AlgoritmosClassicos\\MaximoDivisorComum\\Program.cs",
               "RelativeDocumentMoniker": "MaximoDivisorComum\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\AlgoritmosClassicos\\AlgoritmosClassicos\\MaximoDivisorComum\\Program.cs",
               "RelativeToolTip": "MaximoDivisorComum\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T16:35:57.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\AlgoritmosClassicos\\AlgoritmosClassicos\\AlgoritmosClassicos\\Program.cs",
               "RelativeDocumentMoniker": "AlgoritmosClassicos\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\AlgoritmosClassicos\\AlgoritmosClassicos\\AlgoritmosClassicos\\Program.cs",
               "RelativeToolTip": "AlgoritmosClassicos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T16:34:30.086Z",
               "EditorCaption": ""

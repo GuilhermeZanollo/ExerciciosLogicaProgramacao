@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\bin\Debug\net8.0\OrdenacaoSimples.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\bin\Debug\net8.0\OrdenacaoSimples.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\bin\Debug\net8.0\OrdenacaoSimples.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\bin\Debug\net8.0\OrdenacaoSimples.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\bin\Debug\net8.0\OrdenacaoSimples.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\OrdenacaoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\OrdenacaoSimples.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\OrdenacaoSimples.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\OrdenacaoSimples.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\OrdenacaoSimples.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\OrdenacaoSimples.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\refint\OrdenacaoSimples.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\OrdenacaoSimples.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\OrdenacaoSimples.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\OrdenacaoSimples\obj\Debug\net8.0\ref\OrdenacaoSimples.dll

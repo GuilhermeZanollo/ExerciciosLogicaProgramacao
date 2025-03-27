@@ -13,6 +13,5 @@ static long Fatorial(int n)
     if (n == 0 || n == 1)
         return 1; // Caso base: fatorial de 0 e 1 é sempre 1
     else
-        return n * Fatorial(n - 1); // Chama a própria função com (n-1)
+        return n * Fatorial(n - 1); // Chama a própria função com (n - 1)
 }
-
