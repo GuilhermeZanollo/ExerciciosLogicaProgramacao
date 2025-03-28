@@ -20,3 +20,36 @@ foreach (int numero in numerosUnicos)
 {
     Console.WriteLine(numero);
 }
+
+// Outra forma:
+
+/*
+int[] array = { 1, 1, 2, 2, 3 };
+
+List<int> list = new List<int>(array);
+
+list.Remove(2);
+list.Remove(1);
+
+foreach (int i in list)
+{
+    Console.WriteLine(i);
+}
+*/
+
+// Outra forma:
+
+/*
+int[] array = { 1, 1, 2, 3, 4 };
+
+List<int> list = new List<int>();
+
+foreach (int numero in array)
+{
+    if(!list.Contains(numero))
+    {
+        list.Add(numero);
+        Console.WriteLine(numero);
+    }
+}
+*/

@@ -15,3 +15,4 @@ static long Fatorial(int n)
     else
         return n * Fatorial(n - 1); // Chama a própria função com (n - 1)
 }
+
