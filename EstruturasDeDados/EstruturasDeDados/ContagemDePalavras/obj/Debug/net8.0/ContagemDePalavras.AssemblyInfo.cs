@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContagemDePalavras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+350455a7fef1029219f4eb31c98d4d0226c4f538")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContagemDePalavras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContagemDePalavras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

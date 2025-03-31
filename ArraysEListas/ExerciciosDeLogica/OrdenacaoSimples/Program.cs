@@ -10,18 +10,17 @@ Console.WriteLine("Array ordenado: " + string.Join(", ", numeros));
 
 static void BubbleSort(int[] array)
 {
-    int n = array.Length;
     bool trocou;
 
-    for (int i = 0; i < n - 1; i++)
+    for (int i = 0; i < array.Length - 1; i++) // Controla o número de passagens sobre o array
     {
         trocou = false;
-        for (int j = 0; j < n - i - 1; j++)
+        for (int j = 0; j < array.Length - i - 1; j++) // Compara elementos adjacentes e os troca se necessário.
         {
-            if (array[j] > array[j + 1])
+            if (array[j] > array[j + 1]) // Verifica se o elemento atual (array[j]) é maior que o próximo (array[j + 1])
             {
                 // Troca os elementos
-                (array[j], array[j + 1]) = (array[j + 1], array[j]);
+                (array[j], array[j + 1]) = (array[j + 1], array[j]); // Troca os elementos usando tuple de atribuição
                 trocou = true;
             }
         }
@@ -29,8 +28,9 @@ static void BubbleSort(int[] array)
     }
 }
 
-// Outra forma de resolver sem usar bubble sort:
 /*
+// Outra forma de resolver sem usar bubble sort:
+
 int[] numeros = { 5, 3, 8, 4, 2 };
 
 Console.WriteLine("Array ordenado: " + string.Join(", ", numeros));
