@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.exe
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.deps.json
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\bin\Debug\net8.0\ContagemDePalavras.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\refint\ContagemDePalavras.dll
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.pdb
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\ContagemDePalavras.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\EstruturasDeDados\EstruturasDeDados\ContagemDePalavras\obj\Debug\net8.0\ref\ContagemDePalavras.dll

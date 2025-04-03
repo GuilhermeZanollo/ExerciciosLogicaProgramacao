@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\bin\Debug\net8.0\NumerosPrimos.exe
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\bin\Debug\net8.0\NumerosPrimos.deps.json
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\bin\Debug\net8.0\NumerosPrimos.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\bin\Debug\net8.0\NumerosPrimos.dll
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\bin\Debug\net8.0\NumerosPrimos.pdb
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\NumerosPrimos.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\NumerosPrimos.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\NumerosPrimos.dll
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\refint\NumerosPrimos.dll
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\NumerosPrimos.pdb
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\NumerosPrimos.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\AlgoritmosClassicos\AlgoritmosClassicos\AlgoritmosClassicos\obj\Debug\net8.0\ref\NumerosPrimos.dll

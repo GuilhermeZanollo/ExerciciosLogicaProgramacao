@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\bin\Debug\net8.0\MediaNotas.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\bin\Debug\net8.0\MediaNotas.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\bin\Debug\net8.0\MediaNotas.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\bin\Debug\net8.0\MediaNotas.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\bin\Debug\net8.0\MediaNotas.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\MediaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\MediaNotas.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\MediaNotas.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\MediaNotas.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\MediaNotas.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\MediaNotas.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\refint\MediaNotas.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\MediaNotas.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\MediaNotas.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MediaNotas\obj\Debug\net8.0\ref\MediaNotas.dll

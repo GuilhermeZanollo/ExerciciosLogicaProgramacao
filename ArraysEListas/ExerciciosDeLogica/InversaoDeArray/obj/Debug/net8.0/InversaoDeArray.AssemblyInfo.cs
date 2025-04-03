@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InversaoDeArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01b1404b53e942f822e8b8ce5f6e7061f5f7e949")]
 [assembly: System.Reflection.AssemblyProductAttribute("InversaoDeArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InversaoDeArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
