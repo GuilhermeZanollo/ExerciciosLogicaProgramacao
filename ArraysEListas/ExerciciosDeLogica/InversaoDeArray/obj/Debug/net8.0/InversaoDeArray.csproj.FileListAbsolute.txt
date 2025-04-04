@@ -12,3 +12,4 @@ C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray
 C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.pdb
 C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.genruntimeconfig.cache
 C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\ref\InversaoDeArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\InversaoDeArray\obj\Debug\net8.0\InversaoDeArray.sourcelink.json

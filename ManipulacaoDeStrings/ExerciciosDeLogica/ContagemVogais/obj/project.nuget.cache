@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Xd0bHDNCe+4=",
+  "dgSpecHash": "r5pALu3deN0=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\ContagemVogais\\ContagemVogais.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.zanollo\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512"
+  ],
   "logs": []
 }

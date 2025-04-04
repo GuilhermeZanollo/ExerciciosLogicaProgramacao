@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+5NZRlS0tiY=",
+  "dgSpecHash": "NQxY26mhuM4=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\OrdenacaoSimples\\OrdenacaoSimples.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.zanollo\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512"
+  ],
   "logs": []
 }

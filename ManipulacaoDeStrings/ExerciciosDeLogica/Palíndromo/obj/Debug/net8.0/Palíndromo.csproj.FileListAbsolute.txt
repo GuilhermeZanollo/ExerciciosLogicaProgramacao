@@ -12,3 +12,4 @@ C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndr
 C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.pdb
 C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.genruntimeconfig.cache
 C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\ref\Palíndromo.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Palíndromo\obj\Debug\net8.0\Palíndromo.sourcelink.json

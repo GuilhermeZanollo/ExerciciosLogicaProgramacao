@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MXa1reNHTeo=",
+  "dgSpecHash": "w5ikAriN26M=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LogicaDeProgramacao\\ManipulacaoDeStrings\\ExerciciosDeLogica\\Anagrama\\Anagrama.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.zanollo\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512"
+  ],
   "logs": []
 }

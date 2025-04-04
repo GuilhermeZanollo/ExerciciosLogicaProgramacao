@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\bin\Debug\net8.0\IntervaloNumeros.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\bin\Debug\net8.0\IntervaloNumeros.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\bin\Debug\net8.0\IntervaloNumeros.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\bin\Debug\net8.0\IntervaloNumeros.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\bin\Debug\net8.0\IntervaloNumeros.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\IntervaloNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\IntervaloNumeros.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\IntervaloNumeros.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\IntervaloNumeros.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\IntervaloNumeros.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\IntervaloNumeros.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\refint\IntervaloNumeros.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\IntervaloNumeros.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\IntervaloNumeros.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\IntervaloNumeros\obj\Debug\net8.0\ref\IntervaloNumeros.dll

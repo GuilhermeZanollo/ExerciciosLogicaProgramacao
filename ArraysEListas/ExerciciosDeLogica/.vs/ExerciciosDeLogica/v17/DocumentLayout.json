@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{477EF702-086D-4DA1-B48A-CBCD5926074D}|InversaoDeArray\\InversaoDeArray.csproj|solutionrelative:inversaodearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D51EF618-BF8B-4EC0-83DA-B2E43D89A0BC}|OrdenacaoSimples\\OrdenacaoSimples.csproj|c:\\projetos\\logicadeprogramacao\\arrayselistas\\exerciciosdelogica\\ordenacaosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51EF618-BF8B-4EC0-83DA-B2E43D89A0BC}|OrdenacaoSimples\\OrdenacaoSimples.csproj|solutionrelative:ordenacaosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D97E1D7E-6AD5-498E-85E1-DE94F2FE3B63}|MediaNotas\\MediaNotas.csproj|c:\\projetos\\logicadeprogramacao\\arrayselistas\\exerciciosdelogica\\medianotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D97E1D7E-6AD5-498E-85E1-DE94F2FE3B63}|MediaNotas\\MediaNotas.csproj|solutionrelative:medianotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D51EF618-BF8B-4EC0-83DA-B2E43D89A0BC}|OrdenacaoSimples\\OrdenacaoSimples.csproj|c:\\projetos\\logicadeprogramacao\\arrayselistas\\exerciciosdelogica\\ordenacaosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D51EF618-BF8B-4EC0-83DA-B2E43D89A0BC}|OrdenacaoSimples\\OrdenacaoSimples.csproj|solutionrelative:ordenacaosimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A4347D2-1513-4B58-8591-418694173985}|IntervaloNumeros\\IntervaloNumeros.csproj|c:\\projetos\\logicadeprogramacao\\arrayselistas\\exerciciosdelogica\\intervalonumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A4347D2-1513-4B58-8591-418694173985}|IntervaloNumeros\\IntervaloNumeros.csproj|solutionrelative:intervalonumeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{981493C6-D923-4A46-9525-B5FFB775E2E4}|RemoverDuplicatas\\RemoverDuplicatas.csproj|c:\\projetos\\logicadeprogramacao\\arrayselistas\\exerciciosdelogica\\removerduplicatas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,50 +34,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\MediaNotas\\Program.cs",
-              "RelativeDocumentMoniker": "MediaNotas\\Program.cs",
-              "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\MediaNotas\\Program.cs",
-              "RelativeToolTip": "MediaNotas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\IntervaloNumeros\\Program.cs",
+              "RelativeDocumentMoniker": "IntervaloNumeros\\Program.cs",
+              "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\IntervaloNumeros\\Program.cs",
+              "RelativeToolTip": "IntervaloNumeros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:32:38.421Z",
+              "WhenOpened": "2025-04-04T16:23:40.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\MediaNotas\\Program.cs",
+              "RelativeDocumentMoniker": "MediaNotas\\Program.cs",
+              "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\MediaNotas\\Program.cs",
+              "RelativeToolTip": "MediaNotas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:32:38.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\OrdenacaoSimples\\Program.cs",
               "RelativeDocumentMoniker": "OrdenacaoSimples\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\OrdenacaoSimples\\Program.cs",
               "RelativeToolTip": "OrdenacaoSimples\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T19:32:15.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\RemoverDuplicatas\\Program.cs",
               "RelativeDocumentMoniker": "RemoverDuplicatas\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\RemoverDuplicatas\\Program.cs",
               "RelativeToolTip": "RemoverDuplicatas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:45:17.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T18:45:17.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\BuscaEmArray\\Program.cs",
               "RelativeDocumentMoniker": "BuscaEmArray\\Program.cs",
@@ -81,8 +97,7 @@
               "RelativeToolTip": "BuscaEmArray\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T18:36:47.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T18:36:47.089Z"
             },
             {
               "$type": "Document",
@@ -92,7 +107,7 @@
               "RelativeDocumentMoniker": "InversaoDeArray\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\InversaoDeArray\\Program.cs",
               "RelativeToolTip": "InversaoDeArray\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T18:02:09.695Z",
               "EditorCaption": ""

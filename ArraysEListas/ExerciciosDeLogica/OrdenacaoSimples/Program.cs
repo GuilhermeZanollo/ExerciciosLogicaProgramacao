@@ -12,7 +12,7 @@ static void BubbleSort(int[] array)
 {
     bool trocou;
 
-    for (int i = 0; i < array.Length - 1; i++) // Controla o número de passagens sobre o array
+    for (int i = 0; i < array.Length - 1; i++) // Controla o número de passagens sobre o array -> 
     {
         trocou = false;
         for (int j = 0; j < array.Length - i - 1; j++) // Compara elementos adjacentes e os troca se necessário.

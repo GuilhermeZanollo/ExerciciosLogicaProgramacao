@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InversaoDeString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f96be87dffb4002bacbf84fb0dbc6b06f41d47d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("InversaoDeString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InversaoDeString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

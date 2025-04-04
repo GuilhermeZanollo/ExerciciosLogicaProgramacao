@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LefHNGa8MbA=",
+  "dgSpecHash": "38ZiLcHqaCo=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LogicaDeProgramacao\\ArraysEListas\\ExerciciosDeLogica\\RemoverDuplicatas\\RemoverDuplicatas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.zanollo\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512"
+  ],
   "logs": []
 }
