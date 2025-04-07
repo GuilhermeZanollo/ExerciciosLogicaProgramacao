@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaximoDivisorComum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f35373f3052eacf6f59aaef4d102ace28314b775")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bc10f9438dea66b749eff971d59cf9a462c6a30")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaximoDivisorComum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaximoDivisorComum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

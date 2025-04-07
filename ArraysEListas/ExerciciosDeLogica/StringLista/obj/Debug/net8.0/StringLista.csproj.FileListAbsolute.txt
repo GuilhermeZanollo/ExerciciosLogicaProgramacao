@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\bin\Debug\net8.0\StringLista.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\bin\Debug\net8.0\StringLista.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\bin\Debug\net8.0\StringLista.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\bin\Debug\net8.0\StringLista.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\bin\Debug\net8.0\StringLista.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\StringLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\StringLista.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\StringLista.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\StringLista.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\StringLista.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\StringLista.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\refint\StringLista.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\StringLista.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\StringLista.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\StringLista\obj\Debug\net8.0\ref\StringLista.dll

@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\bin\Debug\net8.0\RemocaoNumerosLista.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\bin\Debug\net8.0\RemocaoNumerosLista.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\bin\Debug\net8.0\RemocaoNumerosLista.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\bin\Debug\net8.0\RemocaoNumerosLista.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\bin\Debug\net8.0\RemocaoNumerosLista.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\RemocaoNumerosLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\RemocaoNumerosLista.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\RemocaoNumerosLista.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\RemocaoNumerosLista.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\RemocaoNumerosLista.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\RemocaoNumerosLista.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\refint\RemocaoNumerosLista.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\RemocaoNumerosLista.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\RemocaoNumerosLista.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\RemocaoNumerosLista\obj\Debug\net8.0\ref\RemocaoNumerosLista.dll

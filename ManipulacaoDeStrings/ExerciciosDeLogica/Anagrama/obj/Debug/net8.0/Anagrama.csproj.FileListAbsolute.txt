@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\bin\Debug\net8.0\Anagrama.exe
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\bin\Debug\net8.0\Anagrama.deps.json
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\bin\Debug\net8.0\Anagrama.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\bin\Debug\net8.0\Anagrama.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\bin\Debug\net8.0\Anagrama.pdb
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\Anagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\Anagrama.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\Anagrama.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\Anagrama.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\Anagrama.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\Anagrama.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\refint\Anagrama.dll
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\Anagrama.pdb
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\Anagrama.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ManipulacaoDeStrings\ExerciciosDeLogica\Anagrama\obj\Debug\net8.0\ref\Anagrama.dll

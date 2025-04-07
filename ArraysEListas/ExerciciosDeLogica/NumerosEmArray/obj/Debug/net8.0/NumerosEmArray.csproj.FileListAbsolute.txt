@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\bin\Debug\net8.0\NumerosEmArray.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\bin\Debug\net8.0\NumerosEmArray.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\bin\Debug\net8.0\NumerosEmArray.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\bin\Debug\net8.0\NumerosEmArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\bin\Debug\net8.0\NumerosEmArray.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\NumerosEmArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\NumerosEmArray.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\NumerosEmArray.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\NumerosEmArray.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\NumerosEmArray.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\NumerosEmArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\refint\NumerosEmArray.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\NumerosEmArray.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\NumerosEmArray.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\NumerosEmArray\obj\Debug\net8.0\ref\NumerosEmArray.dll

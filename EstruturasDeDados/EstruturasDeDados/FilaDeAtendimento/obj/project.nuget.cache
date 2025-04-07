@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SvTmhOsaetw=",
+  "dgSpecHash": "CuC2QbCJdsQ=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LogicaDeProgramacao\\EstruturasDeDados\\EstruturasDeDados\\FilaDeAtendimento\\FilaDeAtendimento.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.zanollo\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512"
+  ],
   "logs": []
 }

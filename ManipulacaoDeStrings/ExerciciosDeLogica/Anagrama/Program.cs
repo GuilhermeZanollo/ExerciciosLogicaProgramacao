@@ -4,6 +4,7 @@ Console.WriteLine("Hello, World!");
 // Verifique se duas palavras digitadas pelo usuário são anagramas uma da outra.
 // Duas entradas 
 
+/*
 Console.WriteLine("Informe a primeira palavra: ");
 string palavra1 = Console.ReadLine();
 
@@ -31,3 +32,5 @@ for (int i = 0; i < palavraSeparada1.Length; i++)
 }
 
 Console.WriteLine("As palavras são anagramas!");
+*/
+

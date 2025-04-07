@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\bin\Debug\net8.0\MaioresNumeros.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\bin\Debug\net8.0\MaioresNumeros.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\bin\Debug\net8.0\MaioresNumeros.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\bin\Debug\net8.0\MaioresNumeros.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\bin\Debug\net8.0\MaioresNumeros.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\MaioresNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\MaioresNumeros.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\MaioresNumeros.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\MaioresNumeros.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\MaioresNumeros.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\MaioresNumeros.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\refint\MaioresNumeros.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\MaioresNumeros.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\MaioresNumeros.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\MaioresNumeros\obj\Debug\net8.0\ref\MaioresNumeros.dll

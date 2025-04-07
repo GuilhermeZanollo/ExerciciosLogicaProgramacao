@@ -10,11 +10,9 @@ Console.WriteLine("Array ordenado: " + string.Join(", ", numeros));
 
 static void BubbleSort(int[] array)
 {
-    bool trocou;
-
     for (int i = 0; i < array.Length - 1; i++) // Controla o número de passagens sobre o array -> 
     {
-        trocou = false;
+        bool trocou = false;
         for (int j = 0; j < array.Length - i - 1; j++) // Compara elementos adjacentes e os troca se necessário.
         {
             if (array[j] > array[j + 1]) // Verifica se o elemento atual (array[j]) é maior que o próximo (array[j + 1])

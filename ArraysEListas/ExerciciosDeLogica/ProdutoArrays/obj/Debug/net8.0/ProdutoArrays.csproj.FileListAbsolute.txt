@@ -1,0 +1,15 @@
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\bin\Debug\net8.0\ProdutoArrays.exe
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\bin\Debug\net8.0\ProdutoArrays.deps.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\bin\Debug\net8.0\ProdutoArrays.runtimeconfig.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\bin\Debug\net8.0\ProdutoArrays.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\bin\Debug\net8.0\ProdutoArrays.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\ProdutoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\ProdutoArrays.AssemblyInfoInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\ProdutoArrays.AssemblyInfo.cs
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\ProdutoArrays.csproj.CoreCompileInputs.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\ProdutoArrays.sourcelink.json
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\ProdutoArrays.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\refint\ProdutoArrays.dll
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\ProdutoArrays.pdb
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\ProdutoArrays.genruntimeconfig.cache
+C:\Projetos\LogicaDeProgramacao\ArraysEListas\ExerciciosDeLogica\ProdutoArrays\obj\Debug\net8.0\ref\ProdutoArrays.dll

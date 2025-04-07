@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Projetos\\LogicaDeProgramacao\\EstruturasDeDados\\EstruturasDeDados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B51C5B10-AF74-49B4-82E8-153AD2A6145E}|FilaDeAtendimento\\FilaDeAtendimento.csproj|c:\\projetos\\logicadeprogramacao\\estruturasdedados\\estruturasdedados\\filadeatendimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B51C5B10-AF74-49B4-82E8-153AD2A6145E}|FilaDeAtendimento\\FilaDeAtendimento.csproj|solutionrelative:filadeatendimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29B5AFDF-0179-4391-9F1B-1205D80E747A}|ContagemDePalavras\\ContagemDePalavras.csproj|c:\\projetos\\logicadeprogramacao\\estruturasdedados\\estruturasdedados\\contagemdepalavras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29B5AFDF-0179-4391-9F1B-1205D80E747A}|ContagemDePalavras\\ContagemDePalavras.csproj|solutionrelative:contagemdepalavras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B51C5B10-AF74-49B4-82E8-153AD2A6145E}|FilaDeAtendimento\\FilaDeAtendimento.csproj|c:\\projetos\\logicadeprogramacao\\estruturasdedados\\estruturasdedados\\filadeatendimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B51C5B10-AF74-49B4-82E8-153AD2A6145E}|FilaDeAtendimento\\FilaDeAtendimento.csproj|solutionrelative:filadeatendimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0227BBC3-4074-4BDF-8C90-53CD909A3E2A}|Lista\\Lista.csproj|c:\\projetos\\logicadeprogramacao\\estruturasdedados\\estruturasdedados\\lista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -58,31 +58,30 @@
               "RelativeToolTip": "Lista\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T19:29:30.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T19:29:30.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\EstruturasDeDados\\EstruturasDeDados\\FilaDeAtendimento\\Program.cs",
               "RelativeDocumentMoniker": "FilaDeAtendimento\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\EstruturasDeDados\\EstruturasDeDados\\FilaDeAtendimento\\Program.cs",
               "RelativeToolTip": "FilaDeAtendimento\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T16:23:11.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\LogicaDeProgramacao\\EstruturasDeDados\\EstruturasDeDados\\ContagemDePalavras\\Program.cs",
               "RelativeDocumentMoniker": "ContagemDePalavras\\Program.cs",
               "ToolTip": "C:\\Projetos\\LogicaDeProgramacao\\EstruturasDeDados\\EstruturasDeDados\\ContagemDePalavras\\Program.cs",
               "RelativeToolTip": "ContagemDePalavras\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T20:58:58.844Z",
               "EditorCaption": ""
@@ -97,8 +96,7 @@
               "RelativeToolTip": "PilhaDeDesfazer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:58:25.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T20:58:25.819Z"
             },
             {
               "$type": "Document",

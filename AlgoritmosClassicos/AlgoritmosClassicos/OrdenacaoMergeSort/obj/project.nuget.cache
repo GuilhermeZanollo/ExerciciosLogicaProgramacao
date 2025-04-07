@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/I1YJ23dQO4=",
+  "dgSpecHash": "9BvU7c4fuEE=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LogicaDeProgramacao\\AlgoritmosClassicos\\AlgoritmosClassicos\\OrdenacaoMergeSort\\OrdenacaoMergeSort.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.zanollo\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512"
+  ],
   "logs": []
 }

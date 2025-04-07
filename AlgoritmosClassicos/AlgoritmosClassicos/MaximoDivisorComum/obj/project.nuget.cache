@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7Ivkg3v5Dj4=",
+  "dgSpecHash": "hCumScU9wW4=",
   "success": true,
   "projectFilePath": "C:\\Projetos\\LogicaDeProgramacao\\AlgoritmosClassicos\\AlgoritmosClassicos\\MaximoDivisorComum\\MaximoDivisorComum.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.zanollo\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512"
+  ],
   "logs": []
 }
